@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "vadidb",
+            "database": "vadidb",
+            "username": "postgres",
+            "password": "bindu@123"
+        }
+    ]
+}
