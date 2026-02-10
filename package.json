@@ -21,14 +21,14 @@
     "test:e2e": "jest --config ./test/jest-e2e.json"
   },
   "dependencies": {
-    "@nestjs-modules/mailer": "^1.8.1",
+    "@nestjs-modules/mailer": "^2.0.0",
     "@nestjs/common": "^9.0.0",
     "@nestjs/config": "^2.2.0",
     "@nestjs/core": "^9.0.0",
     "@nestjs/jwt": "^9.0.0",
     "@nestjs/mapped-types": "^1.1.0",
     "@nestjs/platform-express": "^9.0.0",
-    "@nestjs/swagger": "^6.0.5",
+    "@nestjs/swagger": "^11.2.6",
     "@nestjs/typeorm": "^9.0.1",
     "bcrypt": "^5.0.1",
     "class-transformer": "^0.5.1",
@@ -40,7 +40,7 @@
     "rimraf": "^3.0.2",
     "rxjs": "^7.2.0",
     "swagger-ui-express": "^4.5.0",
-    "twilio": "^3.82.1",
+    "twilio": "^4.19.3",
     "typeorm": "^0.3.7",
     "typeorm-naming-strategies": "^4.1.0"
   },
